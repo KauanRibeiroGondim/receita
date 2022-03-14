@@ -1,3 +1,3 @@
-# Receita de cappuccino
+# Receita de Arroz branco
 
 repositorio teste
